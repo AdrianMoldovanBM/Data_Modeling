@@ -1,6 +1,6 @@
 # Data Modeling
 
-1️⃣**Star Schema Foundation:** I initially constructed a *Star schema* with a Sales fact table, complemented by six-dimensional tables consisting of Product, Customer, Address, Campaign, Manufacturer, and Date, providing a clear structure for insights.
+1️⃣ **Star Schema Foundation:** I initially constructed a *Star schema* with a Sales fact table, complemented by six-dimensional tables consisting of Product, Customer, Address, Campaign, Manufacturer, and Date, providing a clear structure for insights.
 
 2️⃣ **Enhanced Depth with Additional Fact & Dimensions:** Next, I introduced another *Star schema* based on a Budget fact table, alongside two additional dimensional tables, Category/Segment and Date, enriching the model's scope and segmentation capabilities.
 
